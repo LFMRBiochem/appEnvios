@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FBD05C</color><!--#3F51B5-->
+    <color name="colorPrimaryDark">#FCBA02</color><!--#303F9F-->
+    <color name="colorAccent">#369720</color><!--#FF4081-->
+
+    <color name="transparent">@android:color/transparent</color>
+    <color name="rojito">#E42A2A</color>
+    <color name="verdeCaca">#04B431</color>
+    <color name="blancoTecho">#F2F2F2</color>
+    <color name="verdePerseverancia">#088A29</color>
+    <color name="rojoMenstruacion">#FA5858</color>
+    <color name="azulPlaya">#2E9AFE</color>
+    <color name="moradoMarica">#9F81F7</color>
+</resources>
